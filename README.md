@@ -1,4 +1,8 @@
-# Hi there 👋 It's me Prathikesh
+<div align="center">
+
+# **Hi there 👋 It's me Prathikesh**
+
+</div>
 
 ### **Software Engineering Student** 
 
