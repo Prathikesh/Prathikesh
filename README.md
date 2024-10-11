@@ -58,7 +58,7 @@ As a second-year software engineering student, I’m passionate about programmin
 
 ### 💻 Workspace Spec
 <p align="left">
-  <img height="30" src="https://img.shields.io/badge/M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" />
+  <img height="30" src="https://img.shields.io/badge/MacBook_Air_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
 ![Prathikesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=Prathikesh&theme=dark&show_icons=true&hide=issues,contribs)
