@@ -61,5 +61,3 @@ As a second-year software engineering student, I’m passionate about programmin
   <img height="30" src="https://img.shields.io/badge/MacBook_Air_M1-ED1C24?style=for-the-badge&logo=apple&logoColor=white" />
 </p>
 
-
-[![Prathikesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Prathikesh&bg_color=000000&color=ffffff&line=4ce657&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
