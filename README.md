@@ -1,6 +1,6 @@
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Prathikesh</h1>
-<h3 align="center">Software Engineer (AI/ML) & Data Science Undergraduate</h3>
+<h3 align="center">Intern Software Engineer (AI/ML) & Data Science Undergraduate</h3>
 
 <!-- Typing SVG -->
 <p align="center">
