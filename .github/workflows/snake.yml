@@ -11,6 +11,8 @@ on:
 jobs:
   generate:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write     # 👈 IMPORTANT: allow pushing to output branch
 
     steps:
       - name: Checkout
