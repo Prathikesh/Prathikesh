@@ -4,7 +4,7 @@
 
 <!-- Typing SVG -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Software+Engineer+(AI%2FML);Data+Science+Undergraduate+@+SLIIT;Building+AI-powered%2C+data-driven+applications;Always+learning+ML%2C+DL+%26+MLOps" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&duration=3000&pause=900&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate+@+SLIIT;Building+AI-powered%2C+data-driven+applications;Always+learning+ML%2C+DL+%26+MLOps" alt="Typing SVG" />
 </p>
 
 <!-- Profile views -->
